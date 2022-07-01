@@ -1,0 +1,79 @@
+body {
+    background-image: url("../img/fundo.jpg");
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+ 
+    
+
+.login_area { 
+    margin-top: 6%;
+    width: 380px; 
+    background-color: black;  
+    height: 550px;
+    border-radius: 10px;
+    box-shadow: 3px 10px 16px 0px rgba(0,0,0,0.48);
+    -webkit-box-shadow: 3px 10px 16px 0px rgba(0,0,0,0.48);
+    -moz-box-shadow: 3px 10px 16px 0px rgba(0,0,0,0.48);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: antiquewhite;
+}
+
+
+.cadastro_area {
+    margin-top: 6%;
+    width: 500px; 
+    background-color: black;  
+    height: 400px;
+    border-radius: 10px;
+    box-shadow: 3px 10px 16px 0px rgba(0,0,0,0.48);
+    -webkit-box-shadow: 3px 10px 16px 0px rgba(0,0,0,0.48);
+    -moz-box-shadow: 3px 10px 16px 0px rgba(0,0,0,0.48);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: antiquewhite;
+
+}
+
+
+.barra-status{
+float: right;
+margin-top: 9px;
+}
+
+.bloco {
+    background-color: darkcyan;
+}
+
+.menu_principal {
+    margin-top: 2%;
+    width: 400px; 
+    background-color: black;  
+    height: 630px;
+    border-radius: 10px;
+    box-shadow: 3px 10px 16px 0px rgba(0,0,0,0.48);
+    -webkit-box-shadow: 3px 10px 16px 0px rgba(0,0,0,0.48);
+    -moz-box-shadow: 3px 10px 16px 0px rgba(0,0,0,0.48);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: antiquewhite;
+
+}
+
+
+.login-itens {
+    opacity: 1;
+    color: black;
+}
+
+.centralizar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
